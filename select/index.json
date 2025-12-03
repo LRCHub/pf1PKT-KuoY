@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "アイウエ",
+  "base_artist": "MAISONdes",
+  "createdAt": "2025-12-03T09:10:07.729799Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイウエ",
+      "artist": "MAISONdes feat. 美波 & SAKURAmoti",
+      "has_synced": true,
+      "path": "select/01_アイウエ_MAISONdes_feat._美波_&_SAKURAmoti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイウエ (feat. 美波 & SAKURAmoti)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/02_アイウエ_(feat._美波_&_SAKURAmoti)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイウエ",
+      "artist": "MAISONdes/美波/SAKURAmoti",
+      "has_synced": true,
+      "path": "select/03_アイウエ_MAISONdes_美波_SAKURAmoti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイウエ",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/04_アイウエ_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイウエ",
+      "artist": "MAISONdes, 美波, SAKURAmoti",
+      "has_synced": true,
+      "path": "select/05_アイウエ_MAISONdes,_美波,_SAKURAmoti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイウエ",
+      "artist": "MAISONdes feat. 美波 & SAKURAmoti",
+      "has_synced": true,
+      "path": "select/06_アイウエ_MAISONdes_feat._美波_&_SAKURAmoti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイウエ",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/07_アイウエ_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイウエ",
+      "artist": "MAISONdes feat․ 美波 & SAKURAmoti",
+      "has_synced": true,
+      "path": "select/08_アイウエ_MAISONdes_feat._美波_&_SAKURAmoti.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイウエ (feat. 美波 & SAKURAmoti)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/09_アイウエ_(feat._美波_&_SAKURAmoti)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイウエ - aiue (feat. Minami & SAKURAmoti)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/10_アイウエ_-_aiue_(feat._Minami_&_SAKURAmoti)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイウエ",
+      "artist": "MAISONdes feat. Minami & SAKURAmoti",
+      "has_synced": true,
+      "path": "select/11_アイウエ_MAISONdes_feat._Minami_&_SAKURAmoti.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイウエ - aiue (con Minami e SAKURAmoti)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/12_アイウエ_-_aiue_(con_Minami_e_SAKURAmoti)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アイウエ - aiue (feat. Minami",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/13_アイウエ_-_aiue_(feat._Minami_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "【373】[feat. 美波, SAKURAmoti] アイウエ / MAISONdes",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/14_【373】[feat._美波,_SAKURAmoti]_アイウエ___MAISONdes_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいうえ",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/pl_01_あいうえ_MAISONdes.txt"
+    }
+  ]
+}
